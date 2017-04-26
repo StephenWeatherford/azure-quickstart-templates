@@ -11,7 +11,7 @@
     "adminPassword": {
       "value": "YourSecurePassword"
     },
-    "newStorageAccountName": {
+    "storageAccountName": {
       "value": "uniqueStorageAccount"
     },
     "vmStorageContainerName": {
